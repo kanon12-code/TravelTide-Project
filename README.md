@@ -26,7 +26,7 @@ This folder holds the final video presentation of the project. The presentation 
 
 ### Family-Oriented Travelers:
 Characterized by longer stays and multiple rooms. Often book trips for family vacations.
-- **Assigned Perk:** Free Checked Bag (catering to family needs).
+- **Assigned Perk:** Free Checked Bag (catering for family needs).
 
 ### High-Spending Travelers 
 Tend to spend significantly on both flights and hotels.
