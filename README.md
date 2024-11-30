@@ -11,8 +11,8 @@ This repository contains the following folders, each representing a key step in 
 ### [SQL](./SQL)
 This folder includes SQL file used to set up and test the TravelTide database.
 
-### [CSV](./CSV)
-The dataset was extracted from TravelTide's internal booking database and enriched through feature engineering. Key features include traveler demographics, trip details, or spending habits 
+### [CSV](./CSV.csv)
+The dataset was extracted from TravelTide's internal booking database and enriched through feature engineering. Key features include traveler demographics, trip details, or spending habits.
 
 ### [Viz-Dashboard](./Viz-Dashboard.png)
 Contains the final Tableau dashboard that provides insights into loyalty perks based on customer engagement. The dashboard includes customer segmentation, demographic destribution, booking behavior, and perks assigned based on the customer data analysis.
