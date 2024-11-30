@@ -47,8 +47,7 @@ Make bookings close to the departure date, with low cancellations.
 ### Moderate Travelers: 
 Moderate Travelers typically book more than three trips annually.
 These travelers often balance personal and work trips and are likely to seek convenience during their journeys.
-- **Assigned Perk:** Priority boarding
-This perk especially appeals to those seeking comfort and time-saving advantages without needing luxury benefits.
+- **Assigned Perk:** Priority boarding (especially appeals to those seeking comfort and time-saving advantages without needing luxury benefits).
 
 
 ---
