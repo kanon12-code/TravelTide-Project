@@ -26,7 +26,7 @@ This folder holds the final video presentation of the project. The presentation 
 
 ### Family-Oriented Travelers:
 Characterized by longer stays and multiple rooms. Often book trips for family vacations.
-- **Assigned Perk:** Free Checked Bag (catering for family needs).
+- **Assigned Perk:** Free Checked Bag (catering to family needs).
 
 ### High-Spending Travelers 
 Tend to spend significantly on both flights and hotels.
@@ -45,8 +45,8 @@ Make bookings close to the departure date, with low cancellations.
 - **Assigned Perk:** No Cancellation Fees (encouraging risk-free bookings for last-minute planners).
 
 ### Moderate Travelers: 
-Moderate Travelers typically book more than three trips annually.
-These travelers often balance personal and work trips and are likely to seek convenience during their journeys.
+Typically book more than three trips annually.
+Often balance personal and work trips and are likely to seek convenience during their journeys.
 - **Assigned Perk:** Priority boarding (especially appeals to those seeking comfort and time-saving advantages without needing luxury benefits).
 
 
