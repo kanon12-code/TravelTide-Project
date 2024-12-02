@@ -49,6 +49,9 @@ Typically book more than three trips annually.
 Often balance personal and work trips and are likely to seek convenience during their journeys.
 - **Assigned Perk:** Priority boarding (especially appeals to those seeking comfort and time-saving advantages without needing luxury benefits).
 
+###  Occasional Travelers:
+Those who meet any of the above specific criteria fall under this default perk. 
+- **Assigned Perk:** Loyalty points (eventually can be used as a part of their future travel).
 
 ---
 ## Summary
